@@ -14,9 +14,9 @@
 
 - 👩‍🎓 Grad student at kennesaw state university,Atlanta **majoring in computer Science**
 
-- 👩 I would love to collaborate for **openSource projects**
+- 👩 I’m interested in collaborating on Open Source, Full-Stack Development, AI/ML, and Cloud-Native Projects.
 
-- 🔊 Lets talk about **Tech stuff**
+- 🔊 Let's talk about Java, React, Python, AI/ML, Cloud, DevOps, and Software Engineering.
 
 - 📧 How to reach me **mannemkrishna30@gmail.com**
 
@@ -24,7 +24,8 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/harshini-k-143fcsd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshini-k-143fcsd" height="30" width="40" /></a><a href="https://instagram.com/harshinikodali24_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshinikodali24_" height="30" width="40" /></a><a href="https://www.leetcode.com/harshini_kodali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshini_kodali" height="30" width="40" /></a><a href="https://api.whatsapp.com/send?phone=+18322025183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="harshinikodali" height="30" width="40" /></a>
+<a href="https://[www.linkedin.com/in/harshini-k-143](https://www.linkedin.com/in/krishna-mannem0456
+)fcsd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshini-k-143fcsd" height="30" width="40" /></a><a href="https://instagram.com/harshinikodali24_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshinikodali24_" height="30" width="40" /></a><a href="https://www.leetcode.com/harshini_kodali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshini_kodali" height="30" width="40" /></a><a href="https://api.whatsapp.com/send?phone=+18322025183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="harshinikodali" height="30" width="40" /></a>
 
 </p>
 
